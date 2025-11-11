@@ -7,7 +7,7 @@ def hello(): # Name of the method
 @app.route("/greetme")#different URL
 
 @app.route("/greetjohn")#URL leading to method
-def hello(): # Name of the method
+def helloyo(): # Name of the method
  return("Hello john!")
 
 
